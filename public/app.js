@@ -5,7 +5,7 @@ let transactions = [];
 let isLoginMode = true;
 
 // API Base URL
-const API_BASE = "window.location.origin";
+const API_BASE = window.location.origin;
 
 // DOM Elements
 const authPage = document.getElementById("authPage");
