@@ -15,21 +15,6 @@ It showcases **end-to-end backend and frontend engineering**, including authenti
 
 ---
 
-## 📁 Project Structure
-
-FinPay/
-├─ index.js # Node.js backend server
-├─ package.json
-├─ package-lock.json
-├─ public/ # Frontend dashboard
-│ ├─ index.html
-│ ├─ styles.css
-│ └─ app.js
-├─ .gitignore
-└─ README.md
-
----
-
 ## ⚡ Key Features
 
 - **User Authentication & Authorization**: Secure login/register using JWT & bcrypt
