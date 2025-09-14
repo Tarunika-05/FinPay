@@ -3,6 +3,8 @@
 FinPay is a **full-stack payment platform** designed for high-volume, secure, and real-time digital transactions.  
 It showcases **end-to-end backend and frontend engineering**, including authentication, wallet management, and transaction history — all implemented with **performance, security, and scalability in mind**.
 
+🌐 Live Demo: https://finpay-97ej.onrender.com/
+
 ---
 
 ## 🛠 Tech Stack
